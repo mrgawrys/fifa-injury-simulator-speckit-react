@@ -1,0 +1,72 @@
+[
+  {
+    "id": "alisson-liverpool-fc",
+    "fifaId": "alisson-25",
+    "name": "Alisson",
+    "fullName": "Alisson Ramses Becker",
+    "age": 32,
+    "position": "GK",
+    "altPositions": [],
+    "teamId": "liverpool-fc",
+    "teamName": "Liverpool FC",
+    "league": "Premier League",
+    "nation": "Brazil",
+    "overallRating": 89
+  },
+  {
+    "id": "van-dijk-liverpool-fc",
+    "fifaId": "van-dijk-25",
+    "name": "V. van Dijk",
+    "fullName": "Virgil van Dijk",
+    "age": 33,
+    "position": "DEF",
+    "altPositions": [],
+    "teamId": "liverpool-fc",
+    "teamName": "Liverpool FC",
+    "league": "Premier League",
+    "nation": "Netherlands",
+    "overallRating": 89
+  },
+  {
+    "id": "salah-liverpool-fc",
+    "fifaId": "salah-25",
+    "name": "M. Salah",
+    "fullName": "Mohamed Salah",
+    "age": 32,
+    "position": "FWD",
+    "altPositions": ["MID"],
+    "teamId": "liverpool-fc",
+    "teamName": "Liverpool FC",
+    "league": "Premier League",
+    "nation": "Egypt",
+    "overallRating": 89
+  },
+  {
+    "id": "szoboszlai-liverpool-fc",
+    "fifaId": "szoboszlai-25",
+    "name": "D. Szoboszlai",
+    "fullName": "Dominik Szoboszlai",
+    "age": 24,
+    "position": "MID",
+    "altPositions": [],
+    "teamId": "liverpool-fc",
+    "teamName": "Liverpool FC",
+    "league": "Premier League",
+    "nation": "Hungary",
+    "overallRating": 84
+  },
+  {
+    "id": "diaz-liverpool-fc",
+    "fifaId": "diaz-25",
+    "name": "L. Díaz",
+    "fullName": "Luis Díaz",
+    "age": 27,
+    "position": "FWD",
+    "altPositions": ["MID"],
+    "teamId": "liverpool-fc",
+    "teamName": "Liverpool FC",
+    "league": "Premier League",
+    "nation": "Colombia",
+    "overallRating": 84
+  }
+]

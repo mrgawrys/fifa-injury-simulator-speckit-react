@@ -1,0 +1,32 @@
+[
+  {
+    "playerId": "alisson-liverpool-fc",
+    "observedInjuries": 3,
+    "observedSeasons": 4.0,
+    "meanDaysAbsent": 22.0
+  },
+  {
+    "playerId": "van-dijk-liverpool-fc",
+    "observedInjuries": 4,
+    "observedSeasons": 3.5,
+    "meanDaysAbsent": 65.5
+  },
+  {
+    "playerId": "salah-liverpool-fc",
+    "observedInjuries": 5,
+    "observedSeasons": 7.0,
+    "meanDaysAbsent": 15.6
+  },
+  {
+    "playerId": "szoboszlai-liverpool-fc",
+    "observedInjuries": 3,
+    "observedSeasons": 2.5,
+    "meanDaysAbsent": 18.3
+  },
+  {
+    "playerId": "diaz-liverpool-fc",
+    "observedInjuries": 6,
+    "observedSeasons": 3.0,
+    "meanDaysAbsent": 45.2
+  }
+]
